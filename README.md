@@ -11,6 +11,14 @@ This is a chat application with:
 - the ability tocreate multiple rooms and much more
 
 Demo Instructions:
+test user account:
+Victoria
+123123
+
+Admin:
+Rossrival
+M@halkita01
+
 - we start off with a login screen where you can enter your username and password
 - you have to use the credentials that were given to you by the chat admin
 - once you log in you'll be greeted with this great looking chat application
