@@ -19,7 +19,7 @@ Demo Instructions:
 - on the right side you have a list of all the people available in the chat room
 - we can login initially as an admin and we can set a new chat room and add new people into the chat
 - you can split your screen and launch the web app on another window and login as another user
-- since ew added a new user on a demo room we created you can perform a test by sending messages on both users
+- since we added a new user on a demo room we created you can perform a test by sending messages on both users
 - you will notice that the chat messaging is real time and also have a sound notification
 
 
