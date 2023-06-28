@@ -7,8 +7,8 @@ This is a chat application with:
 - great design and functionality
 - icons telling you who read the message
 - image support
-- sound notifications the ability to
-- create multiple rooms and much more
+- sound notifications 
+- the ability tocreate multiple rooms and much more
 
 Demo Instructions:
 - we start off with a login screen where you can enter your username and password
